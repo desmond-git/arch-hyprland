@@ -1,0 +1,11 @@
+configuration {
+
+icon-theme: "Papirus";
+modes: "drun";
+modi: "drun";
+show-icons: true;
+terminal: "kitty";
+combi-hide-mode-prefix: true;
+}
+
+# @theme "~/.local/share/rofi/themes/spotlight-dark.rasi"
