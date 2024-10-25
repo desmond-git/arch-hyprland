@@ -1,0 +1,2 @@
+[opener]
+edit = [{ run = 'subl "$0"', block = false }]
